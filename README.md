@@ -1,5 +1,9 @@
 # Machine-Learning-Model-Interrogation
 
+##Cite this article
+If you use the code please cite: 
+Houston, A., Cosma , G., Turner, P. et al. Predicting surgical outcomes for chronic exertional compartment syndrome using a machine learning framework with embedded trust by interrogation strategies. Sci Rep 11, 24281 (2021). https://doi.org/10.1038/s41598-021-03825-4
+
 
 ## Contents
 
